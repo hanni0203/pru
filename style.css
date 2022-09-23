@@ -2,7 +2,26 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+img{
+    width: 600px;
+}
+
 .contenedor{
     background-color: aqua;
+    text-align: center;
 
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.t1{
+    width: 50%
+}
+
+.t2{
+    width: 50%
 }
